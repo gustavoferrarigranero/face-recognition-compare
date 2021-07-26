@@ -1,3 +1,4 @@
+import os
 from flask import Flask, request
 from faces import test_faces
 
